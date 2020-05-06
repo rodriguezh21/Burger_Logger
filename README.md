@@ -23,13 +23,13 @@ TABLE OF CONTENTS
 
 TECHNOLOGIES USED 
 
-<img alt="MySQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="28" height="30"> MySQL https://www.mysql.com/
+<img alt="MySQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="50" height="50"> MySQL https://www.mysql.com/
 
-<img alt="JAWSDB" src="https://s3.amazonaws.com/marketing.arigato.sh/Providers/JawsDB/jawsdb-logo.png" width="28" height="30"> JAWSDB https://www.jawsdb.com/docs/
+<img alt="JAWSDB" src="https://s3.amazonaws.com/marketing.arigato.sh/Providers/JawsDB/jawsdb-logo.png" width="50" height="50"> JAWSDB https://www.jawsdb.com/docs/
 
-<img alt="NodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="28" height="30"> NodeJS https://nodejs.org/en/
+<img alt="NodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="50" height="50"> NodeJS https://nodejs.org/en/
 
-<img alt="ExpressJS" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" width="28" height="30"> ExpressJS https://expressjs.com/
+<img alt="ExpressJS" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" width="50" height="50"> ExpressJS https://expressjs.com/
 
 <img alt="Express-Handlebars" src="https://www.logolynx.com/images/logolynx/18/18d044244c2f0215e1023fc331efb601.png" width="50" height="50"> Express-Handlebars https://www.npmjs.com/package/express-handlebars
 
