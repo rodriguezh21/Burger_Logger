@@ -1,0 +1,55 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+h1{
+    color: rgb(223, 43, 43);
+    padding: 40px;
+    font-weight: bolder;
+    font-size: 60px;
+}
+h2{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-bottom: lightslategray solid 1px;
+}
+ul li {
+    background-color: lightgoldenrodyellow;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-weight: bold;
+}
+.btnD{
+    background-color: rgb(223, 43, 43);
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: small;
+    border: 2px solid red;
+    border-radius: 25px;
+    
+}
+.btnD:hover {
+    cursor: pointer;
+}
+.btn {
+    background-color: rgb(223, 43, 43);
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: small;
+    padding: 5px;
+    border: 2px solid red;
+    border-radius: 25px;
+}
+#ca{
+    text-align: center;
+}
+button{
+    background-color: #ffdb58;
+}
+button:hover {
+    cursor: pointer;
+}
