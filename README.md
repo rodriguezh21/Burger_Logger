@@ -31,7 +31,7 @@ TECHNOLOGIES USED
 
 <img alt="ExpressJS" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" width="28" height="30"> ExpressJS https://expressjs.com/
 
-<img alt="Express-Handlebars" src="https://www.logolynx.com/images/logolynx/18/18d044244c2f0215e1023fc331efb601.png" width="28" height="30"> Express-Handlebars https://www.npmjs.com/package/express-handlebars
+<img alt="Express-Handlebars" src="https://www.logolynx.com/images/logolynx/18/18d044244c2f0215e1023fc331efb601.png" width="50" height="50"> Express-Handlebars https://www.npmjs.com/package/express-handlebars
 
 ***
 
